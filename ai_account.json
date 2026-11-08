@@ -376,7 +376,7 @@
    "why": "Konsenzus: Kalshi 55 %, forma 77 %, projekcia z minút 68 % (xMIN 30) – zhoda všetkých troch, EV +21 %."
   },
   {
-   "actual": null,
+   "actual": 3.0,
    "close": null,
    "clv": null,
    "eid": "401909945",
@@ -388,11 +388,11 @@
    "pid": "5124612",
    "prob": 0.671,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794178090.3428404,
    "side": "under",
    "start": 1794169800.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "won",
    "strat": "C",
    "team": "",
    "ts": 1794149847.415779,
@@ -426,7 +426,7 @@
    "why": "Objem: zmes Kalshi+forma 60 %, projekcia 66 %, EV +13 %, kurz 1.86."
   },
   {
-   "actual": 12.0,
+   "actual": 19.0,
    "close": null,
    "clv": null,
    "eid": "401909945",
@@ -451,7 +451,7 @@
    "why": "Objem: zmes Kalshi+forma 63 %, projekcia 64 %, EV +19 %, kurz 1.87."
   },
   {
-   "actual": 18.0,
+   "actual": 22.0,
    "close": null,
    "clv": null,
    "eid": "401909945",
@@ -1152,6 +1152,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794177109.7993004,
+ "updated": 1794178090.6934197,
  "v": 1
 }
