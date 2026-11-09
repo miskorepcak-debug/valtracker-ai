@@ -101,7 +101,7 @@
    "why": "Konsenzus: Kalshi 56 %, forma 81 %, projekcia z minút 67 % (xMIN 35) – zhoda všetkých troch, EV +18 %."
   },
   {
-   "actual": null,
+   "actual": 1.0,
    "close": null,
    "clv": null,
    "eid": "401909949",
@@ -113,11 +113,11 @@
    "pid": "4395725",
    "prob": 0.636,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794194389.540436,
    "side": "over",
    "start": 1794186000.0,
    "stat": "tpm",
-   "status": "pending",
+   "status": "lost",
    "strat": "C",
    "team": "",
    "ts": 1794149847.4155262,
@@ -126,7 +126,7 @@
    "why": "Objem: zmes Kalshi+forma 63 %, projekcia 64 %, EV +16 %, kurz 1.83."
   },
   {
-   "actual": null,
+   "actual": 3.0,
    "close": null,
    "clv": null,
    "eid": "401909949",
@@ -138,11 +138,11 @@
    "pid": "4251",
    "prob": 0.693,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794194389.540436,
    "side": "over",
    "start": 1794186000.0,
    "stat": "reb",
-   "status": "pending",
+   "status": "lost",
    "strat": "C",
    "team": "",
    "ts": 1794149847.4155025,
@@ -151,7 +151,7 @@
    "why": "Objem: zmes Kalshi+forma 69 %, projekcia 62 %, EV +17 %, kurz 1.69."
   },
   {
-   "actual": null,
+   "actual": 6.0,
    "close": null,
    "clv": null,
    "eid": "401909949",
@@ -163,11 +163,11 @@
    "pid": "4065648",
    "prob": 0.7,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794194389.540436,
    "side": "over",
    "start": 1794186000.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "lost",
    "strat": "C",
    "team": "",
    "ts": 1794149847.4154298,
@@ -176,7 +176,7 @@
    "why": "Objem: zmes Kalshi+forma 70 %, projekcia 66 %, EV +25 %, kurz 1.79."
   },
   {
-   "actual": null,
+   "actual": 1.0,
    "close": null,
    "clv": null,
    "eid": "401909949",
@@ -188,11 +188,11 @@
    "pid": "5082206",
    "prob": 0.76,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794194389.540436,
    "side": "under",
    "start": 1794186000.0,
    "stat": "tpm",
-   "status": "pending",
+   "status": "won",
    "strat": "A",
    "team": "",
    "ts": 1794149847.4153492,
@@ -1152,6 +1152,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794193754.8677683,
+ "updated": 1794194392.4545524,
  "v": 1
 }
