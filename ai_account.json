@@ -276,7 +276,7 @@
    "why": "Konsenzus: Kalshi 56 %, forma 74 %, projekcia z minút 68 % (xMIN 37) – zhoda všetkých troch, EV +14 %."
   },
   {
-   "actual": null,
+   "actual": 10.0,
    "close": null,
    "clv": null,
    "eid": "401909947",
@@ -288,11 +288,11 @@
    "pid": "3032976",
    "prob": 0.637,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794190766.7891264,
    "side": "under",
    "start": 1794182400.0,
    "stat": "pts",
-   "status": "pending",
+   "status": "lost",
    "strat": "C",
    "team": "",
    "ts": 1794149847.4155777,
@@ -1152,6 +1152,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794190153.9045804,
+ "updated": 1794190823.3975341,
  "v": 1
 }
