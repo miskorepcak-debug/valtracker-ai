@@ -281,6 +281,31 @@
    "clv": null,
    "eid": "401909952",
    "game": "Los Angeles L vs Atlanta",
+   "kind": "team",
+   "label": "Atlanta víťaz (Los Angeles L vs Atlanta)",
+   "line": null,
+   "odds": 2.04,
+   "pid": "",
+   "prob": 0.52,
+   "ref": null,
+   "settled_ts": null,
+   "side": "",
+   "start": 1794268800.0,
+   "stat": "",
+   "status": "pending",
+   "strat": "E",
+   "team": "ATL",
+   "ts": 1794234585.580404,
+   "uid": "2026-11-09-E-09LALATL-atl-mlw",
+   "units": 0.2,
+   "why": "[auto] Zápasy: pravdepodobnosť 52 % (Kalshi+Polymarket) proti kurzu 2.04, EV +6 %."
+  },
+  {
+   "actual": null,
+   "close": null,
+   "clv": null,
+   "eid": "401909952",
+   "game": "Los Angeles L vs Atlanta",
    "kind": "prop",
    "label": "Matisse Thybulle UNDER 2.5 doskokov",
    "line": 2.5,
@@ -1727,6 +1752,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794223199.2374542,
+ "updated": 1794234588.484408,
  "v": 1
 }
