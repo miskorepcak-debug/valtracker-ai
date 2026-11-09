@@ -1,7 +1,7 @@
 {
  "bets": [
   {
-   "actual": null,
+   "actual": 3.0,
    "close": null,
    "clv": null,
    "eid": "401909951",
@@ -13,11 +13,11 @@
    "pid": "3064440",
    "prob": 0.669,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794193684.1751478,
    "side": "over",
    "start": 1794189600.0,
    "stat": "reb",
-   "status": "pending",
+   "status": "won",
    "strat": "C",
    "team": "",
    "ts": 1794149847.4158244,
@@ -151,7 +151,7 @@
    "why": "Objem: zmes Kalshi+forma 69 %, projekcia 62 %, EV +17 %, kurz 1.69."
   },
   {
-   "actual": 7.0,
+   "actual": null,
    "close": null,
    "clv": null,
    "eid": "401909949",
@@ -163,11 +163,11 @@
    "pid": "4065648",
    "prob": 0.7,
    "ref": null,
-   "settled_ts": 1794192615.6993945,
+   "settled_ts": null,
    "side": "over",
    "start": 1794186000.0,
    "stat": "ast",
-   "status": "won",
+   "status": "pending",
    "strat": "C",
    "team": "",
    "ts": 1794149847.4154298,
@@ -201,7 +201,7 @@
    "why": "Konsenzus: Kalshi 62 %, forma 83 %, projekcia z minút 80 % (xMIN 23) – zhoda všetkých troch, EV +15 %."
   },
   {
-   "actual": null,
+   "actual": 2.0,
    "close": null,
    "clv": null,
    "eid": "401909948",
@@ -213,11 +213,11 @@
    "pid": "5279130",
    "prob": 0.655,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794193750.727785,
    "side": "under",
    "start": 1794184200.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "won",
    "strat": "C",
    "team": "",
    "ts": 1794149847.415755,
@@ -226,7 +226,7 @@
    "why": "Objem: zmes Kalshi+forma 65 %, projekcia 75 %, EV +12 %, kurz 1.71."
   },
   {
-   "actual": 7.0,
+   "actual": 9.0,
    "close": null,
    "clv": null,
    "eid": "401909948",
@@ -251,7 +251,7 @@
    "why": "Objem: zmes Kalshi+forma 64 %, projekcia 72 %, EV +12 %, kurz 1.73."
   },
   {
-   "actual": 7.0,
+   "actual": 12.0,
    "close": null,
    "clv": null,
    "eid": "401909948",
@@ -1152,6 +1152,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794192787.085806,
+ "updated": 1794193754.8677683,
  "v": 1
 }
