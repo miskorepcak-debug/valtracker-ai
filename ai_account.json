@@ -226,7 +226,7 @@
    "why": "Objem: zmes Kalshi+forma 65 %, projekcia 75 %, EV +12 %, kurz 1.71."
   },
   {
-   "actual": null,
+   "actual": 7.0,
    "close": null,
    "clv": null,
    "eid": "401909948",
@@ -238,11 +238,11 @@
    "pid": "4278104",
    "prob": 0.648,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794189430.1497815,
    "side": "over",
    "start": 1794184200.0,
    "stat": "reb",
-   "status": "pending",
+   "status": "won",
    "strat": "C",
    "team": "",
    "ts": 1794149847.415722,
@@ -251,7 +251,7 @@
    "why": "Objem: zmes Kalshi+forma 64 %, projekcia 72 %, EV +12 %, kurz 1.73."
   },
   {
-   "actual": null,
+   "actual": 7.0,
    "close": null,
    "clv": null,
    "eid": "401909948",
@@ -263,11 +263,11 @@
    "pid": "5041939",
    "prob": 0.676,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794189430.1497815,
    "side": "over",
    "start": 1794184200.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "won",
    "strat": "A",
    "team": "",
    "ts": 1794149847.415375,
@@ -301,7 +301,7 @@
    "why": "Objem: zmes Kalshi+forma 63 %, projekcia 72 %, EV +15 %, kurz 1.80."
   },
   {
-   "actual": null,
+   "actual": 3.0,
    "close": null,
    "clv": null,
    "eid": "401909947",
@@ -313,11 +313,11 @@
    "pid": "4432847",
    "prob": 0.67,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794189430.1497815,
    "side": "over",
    "start": 1794182400.0,
    "stat": "reb",
-   "status": "pending",
+   "status": "won",
    "strat": "C",
    "team": "",
    "ts": 1794149847.4154763,
@@ -1152,6 +1152,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794178090.6934197,
+ "updated": 1794189436.0772052,
  "v": 1
 }
