@@ -1,7 +1,7 @@
 {
  "bets": [
   {
-   "actual": 3.0,
+   "actual": 4.0,
    "close": null,
    "clv": null,
    "eid": "401909951",
@@ -26,7 +26,7 @@
    "why": "Objem: zmes Kalshi+forma 66 %, projekcia 65 %, EV +10 %, kurz 1.64."
   },
   {
-   "actual": null,
+   "actual": 3.0,
    "close": null,
    "clv": null,
    "eid": "401909951",
@@ -38,11 +38,11 @@
    "pid": "4601025",
    "prob": 0.627,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794208949.3905787,
    "side": "under",
    "start": 1794189600.0,
    "stat": "reb",
-   "status": "pending",
+   "status": "won",
    "strat": "C",
    "team": "",
    "ts": 1794149847.4158018,
@@ -63,11 +63,11 @@
    "pid": "3155942",
    "prob": 0.635,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794208949.3905787,
    "side": "over",
    "start": 1794189600.0,
    "stat": "reb",
-   "status": "pending",
+   "status": "void",
    "strat": "C",
    "team": "",
    "ts": 1794149847.4155483,
@@ -76,7 +76,7 @@
    "why": "Objem: zmes Kalshi+forma 63 %, projekcia 63 %, EV +15 %, kurz 1.81."
   },
   {
-   "actual": null,
+   "actual": 3.0,
    "close": null,
    "clv": null,
    "eid": "401909951",
@@ -88,11 +88,11 @@
    "pid": "4278053",
    "prob": 0.726,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794208949.3905787,
    "side": "under",
    "start": 1794189600.0,
    "stat": "reb",
-   "status": "pending",
+   "status": "lost",
    "strat": "A",
    "team": "",
    "ts": 1794149847.4152517,
@@ -1152,6 +1152,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794194392.4545524,
+ "updated": 1794208973.9908583,
  "v": 1
 }
