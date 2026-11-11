@@ -376,7 +376,7 @@
    "why": "[auto] Úndery: forma 73 %, projekcia 70 %, Model 2 70 %, zmes 67 %, EV +19 %, kurz 1.77."
   },
   {
-   "actual": null,
+   "actual": 10.0,
    "close": null,
    "clv": null,
    "eid": "401909963",
@@ -388,11 +388,11 @@
    "pid": "4683766",
    "prob": 0.677,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794370567.950472,
    "side": "under",
    "start": 1794362400.0,
    "stat": "pts",
-   "status": "pending",
+   "status": "lost",
    "strat": "D",
    "team": "",
    "ts": 1794303910.046614,
@@ -426,7 +426,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 62 %, projekcia 60 %, EV +15 %, kurz 1.83."
   },
   {
-   "actual": null,
+   "actual": 10.0,
    "close": null,
    "clv": null,
    "eid": "401909963",
@@ -438,11 +438,11 @@
    "pid": "4683766",
    "prob": 0.677,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794370567.950472,
    "side": "under",
    "start": 1794362400.0,
    "stat": "pts",
-   "status": "pending",
+   "status": "lost",
    "strat": "C",
    "team": "",
    "ts": 1794303910.039169,
@@ -2652,6 +2652,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794368919.814877,
+ "updated": 1794370624.7139447,
  "v": 1
 }
