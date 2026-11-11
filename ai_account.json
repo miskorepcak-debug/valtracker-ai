@@ -51,7 +51,7 @@
    "why": "[auto] Úndery: forma 80 %, projekcia 58 %, Model 2 60 %, zmes 71 %, EV +22 %, kurz 1.71."
   },
   {
-   "actual": null,
+   "actual": 2.0,
    "close": null,
    "clv": null,
    "eid": "401909965",
@@ -63,11 +63,11 @@
    "pid": "4683778",
    "prob": 0.6,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794372514.914997,
    "side": "over",
    "start": 1794369600.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "won",
    "strat": "C",
    "team": "",
    "ts": 1794303910.0757077,
@@ -2652,6 +2652,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794372458.8558178,
+ "updated": 1794372782.0664432,
  "v": 1
 }
