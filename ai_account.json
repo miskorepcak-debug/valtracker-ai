@@ -251,7 +251,7 @@
    "why": "[auto] Úndery: forma 75 %, projekcia 71 %, Model 2 74 %, zmes 67 %, EV +16 %, kurz 1.71."
   },
   {
-   "actual": null,
+   "actual": 2.0,
    "close": null,
    "clv": null,
    "eid": "401909962",
@@ -263,11 +263,11 @@
    "pid": "4437244",
    "prob": 0.648,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794367680.7027016,
    "side": "under",
    "start": 1794362400.0,
    "stat": "tpm",
-   "status": "pending",
+   "status": "lost",
    "strat": "D",
    "team": "",
    "ts": 1794312270.2019088,
@@ -276,7 +276,7 @@
    "why": "[auto] Úndery: forma 73 %, projekcia 87 %, Model 2 87 %, zmes 64 %, EV +18 %, kurz 1.82."
   },
   {
-   "actual": null,
+   "actual": 2.0,
    "close": null,
    "clv": null,
    "eid": "401909962",
@@ -288,11 +288,11 @@
    "pid": "4437244",
    "prob": 0.648,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794367680.7027016,
    "side": "under",
    "start": 1794362400.0,
    "stat": "tpm",
-   "status": "pending",
+   "status": "lost",
    "strat": "C",
    "team": "",
    "ts": 1794312270.196112,
@@ -501,7 +501,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 60 %, projekcia 60 %, EV +10 %, kurz 1.81."
   },
   {
-   "actual": null,
+   "actual": 2.0,
    "close": null,
    "clv": null,
    "eid": "401909961",
@@ -513,11 +513,11 @@
    "pid": "4683689",
    "prob": 0.728,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794367792.8480012,
    "side": "over",
    "start": 1794358800.0,
    "stat": "reb",
-   "status": "pending",
+   "status": "lost",
    "strat": "C",
    "team": "",
    "ts": 1794303910.0236247,
@@ -526,7 +526,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 72 %, projekcia 68 %, EV +24 %, kurz 1.71."
   },
   {
-   "actual": null,
+   "actual": 1.0,
    "close": null,
    "clv": null,
    "eid": "401909961",
@@ -538,11 +538,11 @@
    "pid": "3917376",
    "prob": 0.672,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794367792.8480012,
    "side": "over",
    "start": 1794358800.0,
    "stat": "tpm",
-   "status": "pending",
+   "status": "lost",
    "strat": "A",
    "team": "",
    "ts": 1794303910.0132697,
@@ -2652,6 +2652,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794365867.4798803,
+ "updated": 1794367797.07422,
  "v": 1
 }
