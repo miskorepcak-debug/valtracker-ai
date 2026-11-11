@@ -226,7 +226,7 @@
    "why": "[auto] Zápasy (handicap): z trhu víťaza vychádza šanca krytia 53 % proti kurzu 2.14, EV +13 %."
   },
   {
-   "actual": null,
+   "actual": 3.0,
    "close": null,
    "clv": null,
    "eid": "401909962",
@@ -238,11 +238,11 @@
    "pid": "3136193",
    "prob": 0.676,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794371570.8928146,
    "side": "under",
    "start": 1794362400.0,
    "stat": "reb",
-   "status": "pending",
+   "status": "won",
    "strat": "D",
    "team": "",
    "ts": 1794312270.2036622,
@@ -251,7 +251,7 @@
    "why": "[auto] Úndery: forma 75 %, projekcia 71 %, Model 2 74 %, zmes 67 %, EV +16 %, kurz 1.71."
   },
   {
-   "actual": 2.0,
+   "actual": 3.0,
    "close": null,
    "clv": null,
    "eid": "401909962",
@@ -276,7 +276,7 @@
    "why": "[auto] Úndery: forma 73 %, projekcia 87 %, Model 2 87 %, zmes 64 %, EV +18 %, kurz 1.82."
   },
   {
-   "actual": 2.0,
+   "actual": 3.0,
    "close": null,
    "clv": null,
    "eid": "401909962",
@@ -301,7 +301,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 64 %, projekcia 87 %, EV +18 %, kurz 1.82."
   },
   {
-   "actual": null,
+   "actual": 2.0,
    "close": null,
    "clv": null,
    "eid": "401909962",
@@ -313,11 +313,11 @@
    "pid": "2991139",
    "prob": 0.65,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794371570.8928146,
    "side": "over",
    "start": 1794362400.0,
    "stat": "reb",
-   "status": "pending",
+   "status": "lost",
    "strat": "C",
    "team": "",
    "ts": 1794312270.1947095,
@@ -2652,6 +2652,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794370624.7139447,
+ "updated": 1794371572.2603352,
  "v": 1
 }
