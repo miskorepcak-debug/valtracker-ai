@@ -201,7 +201,7 @@
    "why": "[auto] Konsenzus: Kalshi 56 %, forma 73 %, projekcia z minút 71 % (xMIN 36) – zhoda všetkých troch, EV +15 %."
   },
   {
-   "actual": null,
+   "actual": -6.0,
    "close": null,
    "clv": null,
    "eid": "401909963",
@@ -213,11 +213,11 @@
    "pid": "",
    "prob": 0.53,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794372423.4301615,
    "side": "",
    "start": 1794362400.0,
    "stat": "hc",
-   "status": "pending",
+   "status": "won",
    "strat": "E",
    "team": "UTA",
    "ts": 1794356651.1876686,
@@ -351,7 +351,7 @@
    "why": "[auto] Konsenzus: Kalshi 62 %, forma 80 %, projekcia z minút 70 % (xMIN 36) – zhoda všetkých troch, EV +14 %."
   },
   {
-   "actual": null,
+   "actual": 2.0,
    "close": null,
    "clv": null,
    "eid": "401909963",
@@ -363,11 +363,11 @@
    "pid": "4432811",
    "prob": 0.674,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794372423.4301615,
    "side": "under",
    "start": 1794362400.0,
    "stat": "pts",
-   "status": "pending",
+   "status": "won",
    "strat": "D",
    "team": "",
    "ts": 1794303910.0478175,
@@ -376,7 +376,7 @@
    "why": "[auto] Úndery: forma 73 %, projekcia 70 %, Model 2 70 %, zmes 67 %, EV +19 %, kurz 1.77."
   },
   {
-   "actual": 10.0,
+   "actual": 17.0,
    "close": null,
    "clv": null,
    "eid": "401909963",
@@ -401,7 +401,7 @@
    "why": "[auto] Úndery: forma 76 %, projekcia 82 %, Model 2 73 %, zmes 67 %, EV +20 %, kurz 1.78."
   },
   {
-   "actual": 4.0,
+   "actual": 7.0,
    "close": null,
    "clv": null,
    "eid": "401909963",
@@ -426,7 +426,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 62 %, projekcia 60 %, EV +15 %, kurz 1.83."
   },
   {
-   "actual": 10.0,
+   "actual": 17.0,
    "close": null,
    "clv": null,
    "eid": "401909963",
@@ -451,7 +451,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 67 %, projekcia 82 %, EV +20 %, kurz 1.78."
   },
   {
-   "actual": null,
+   "actual": 2.0,
    "close": null,
    "clv": null,
    "eid": "401909963",
@@ -463,11 +463,11 @@
    "pid": "4432811",
    "prob": 0.674,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794372423.4301615,
    "side": "under",
    "start": 1794362400.0,
    "stat": "pts",
-   "status": "pending",
+   "status": "won",
    "strat": "A",
    "team": "",
    "ts": 1794303910.0320277,
@@ -2652,6 +2652,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794371572.2603352,
+ "updated": 1794372458.8558178,
  "v": 1
 }
