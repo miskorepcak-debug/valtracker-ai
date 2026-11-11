@@ -551,7 +551,7 @@
    "why": "[auto] Konsenzus: Kalshi 56 %, forma 72 %, projekcia z minút 66 % (xMIN 37) – zhoda všetkých troch, EV +15 %."
   },
   {
-   "actual": null,
+   "actual": 2.0,
    "close": null,
    "clv": null,
    "eid": "401909960",
@@ -563,11 +563,11 @@
    "pid": "3934672",
    "prob": 0.586,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794365734.6521807,
    "side": "under",
    "start": 1794357000.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "won",
    "strat": "D",
    "team": "",
    "ts": 1794312270.1819181,
@@ -576,7 +576,7 @@
    "why": "[auto] Úndery: forma 62 %, projekcia 63 %, Model 2 62 %, zmes 58 %, EV +12 %, kurz 1.91."
   },
   {
-   "actual": null,
+   "actual": 1.0,
    "close": null,
    "clv": null,
    "eid": "401909960",
@@ -588,11 +588,11 @@
    "pid": "5082206",
    "prob": 0.718,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794365734.6521807,
    "side": "under",
    "start": 1794357000.0,
    "stat": "tpm",
-   "status": "pending",
+   "status": "won",
    "strat": "D",
    "team": "",
    "ts": 1794312270.1804128,
@@ -601,7 +601,7 @@
    "why": "[auto] Úndery: forma 79 %, projekcia 78 %, Model 2 80 %, zmes 71 %, EV +25 %, kurz 1.74."
   },
   {
-   "actual": null,
+   "actual": 2.0,
    "close": null,
    "clv": null,
    "eid": "401909960",
@@ -613,11 +613,11 @@
    "pid": "3934672",
    "prob": 0.586,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794365734.6521807,
    "side": "under",
    "start": 1794357000.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "won",
    "strat": "C",
    "team": "",
    "ts": 1794312270.1748269,
@@ -651,7 +651,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 64 %, projekcia 76 %, EV +17 %, kurz 1.81."
   },
   {
-   "actual": null,
+   "actual": 1.0,
    "close": null,
    "clv": null,
    "eid": "401909960",
@@ -663,11 +663,11 @@
    "pid": "5082206",
    "prob": 0.718,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794365734.6521807,
    "side": "under",
    "start": 1794357000.0,
    "stat": "tpm",
-   "status": "pending",
+   "status": "won",
    "strat": "A",
    "team": "",
    "ts": 1794312270.1652544,
@@ -2652,6 +2652,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794365265.5225477,
+ "updated": 1794365740.1022632,
  "v": 1
 }
