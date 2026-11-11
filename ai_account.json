@@ -204,6 +204,31 @@
    "actual": null,
    "close": null,
    "clv": null,
+   "eid": "401909963",
+   "game": "Miami vs Utah",
+   "kind": "team",
+   "label": "Utah +7.5 (Miami vs Utah)",
+   "line": 7.5,
+   "odds": 2.14,
+   "pid": "",
+   "prob": 0.53,
+   "ref": null,
+   "settled_ts": null,
+   "side": "",
+   "start": 1794362400.0,
+   "stat": "hc",
+   "status": "pending",
+   "strat": "E",
+   "team": "UTA",
+   "ts": 1794356651.1876686,
+   "uid": "2026-11-10-E-10MIAUTA-uta-hc7.5c",
+   "units": 0.2,
+   "why": "[auto] Zápasy (handicap): z trhu víťaza vychádza šanca krytia 53 % proti kurzu 2.14, EV +13 %."
+  },
+  {
+   "actual": null,
+   "close": null,
+   "clv": null,
    "eid": "401909962",
    "game": "Los Angeles C vs Phoenix",
    "kind": "prop",
@@ -2627,6 +2652,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794312273.6162016,
+ "updated": 1794356654.3497605,
  "v": 1
 }
