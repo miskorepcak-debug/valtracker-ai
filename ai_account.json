@@ -326,7 +326,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 65 %, projekcia 63 %, EV +18 %, kurz 1.82."
   },
   {
-   "actual": null,
+   "actual": 2.0,
    "close": null,
    "clv": null,
    "eid": "401909962",
@@ -338,11 +338,11 @@
    "pid": "3136193",
    "prob": 0.739,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794368130.0840874,
    "side": "over",
    "start": 1794362400.0,
    "stat": "tpm",
-   "status": "pending",
+   "status": "won",
    "strat": "A",
    "team": "",
    "ts": 1794312270.1876445,
@@ -2652,6 +2652,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794367797.07422,
+ "updated": 1794368437.7780907,
  "v": 1
 }
