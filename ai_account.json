@@ -1,7 +1,7 @@
 {
  "bets": [
   {
-   "actual": null,
+   "actual": 5.0,
    "close": null,
    "clv": null,
    "eid": "401909970",
@@ -13,11 +13,11 @@
    "pid": "4065733",
    "prob": 0.631,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794454481.7229214,
    "side": "under",
    "start": 1794445200.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "won",
    "strat": "D",
    "team": "",
    "ts": 1794411048.3610823,
@@ -26,7 +26,7 @@
    "why": "[auto] Úndery: forma 68 %, projekcia 61 %, Model 2 63 %, zmes 63 %, EV +12 %, kurz 1.78. Dáta: sezóna 6/9 zápasov pod 5.5 AST; posledných 5: 5/5; priemer 4.9 (posl. 5: 3.6); očakáva sa ~33 min (priemer 31); hrá doma; DEN dovoľuje 29.5 AST/zápas."
   },
   {
-   "actual": 26.0,
+   "actual": 27.0,
    "close": null,
    "clv": null,
    "eid": "401909970",
@@ -51,7 +51,7 @@
    "why": "[auto] Úndery: forma 73 %, projekcia 62 %, Model 2 76 %, zmes 65 %, EV +20 %, kurz 1.85. Dáta: sezóna 6/9 zápasov pod 25.5 PTS; posledných 5: 3/5; priemer 23.1 (posl. 5: 24.0); očakáva sa ~36 min (priemer 36); hrá vonku; MEM dovoľuje 112.1 PTS/zápas."
   },
   {
-   "actual": 9.0,
+   "actual": 11.0,
    "close": null,
    "clv": null,
    "eid": "401909970",
@@ -76,7 +76,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 60 %, projekcia 67 %, EV +6 %, kurz 1.75. Dáta: sezóna 7/10 zápasov nad 8.5 REB; posledných 5: 3/5; priemer 9.7 (posl. 5: 8.6); očakáva sa ~34 min (priemer 32); hrá doma; DEN dovoľuje 44.5 REB/zápas."
   },
   {
-   "actual": null,
+   "actual": 5.0,
    "close": null,
    "clv": null,
    "eid": "401909970",
@@ -88,11 +88,11 @@
    "pid": "4065733",
    "prob": 0.631,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794454481.7229214,
    "side": "under",
    "start": 1794445200.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "won",
    "strat": "C",
    "team": "",
    "ts": 1794411048.351823,
@@ -101,7 +101,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 63 %, projekcia 61 %, EV +12 %, kurz 1.78. Dáta: sezóna 6/9 zápasov pod 5.5 AST; posledných 5: 5/5; priemer 4.9 (posl. 5: 3.6); očakáva sa ~33 min (priemer 31); hrá doma; DEN dovoľuje 29.5 AST/zápas."
   },
   {
-   "actual": null,
+   "actual": 1.0,
    "close": null,
    "clv": null,
    "eid": "401909970",
@@ -113,11 +113,11 @@
    "pid": "3112335",
    "prob": 0.714,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794454481.7229214,
    "side": "under",
    "start": 1794445200.0,
    "stat": "tpm",
-   "status": "pending",
+   "status": "won",
    "strat": "A",
    "team": "",
    "ts": 1794411048.33377,
@@ -3052,6 +3052,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794453833.589011,
+ "updated": 1794454487.4928706,
  "v": 1
 }
