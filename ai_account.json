@@ -326,7 +326,7 @@
    "why": "[auto] Konsenzus: Kalshi 56 %, forma 72 %, projekcia z minút 60 % (xMIN 32) – zhoda všetkých troch, EV +13 %. Dáta: sezóna 9/11 zápasov pod 1.5 3PM; posledných 10: 8/10; posledných 5: 4/5; priemer 1.1 (posl. 5: 1.0); očakáva sa ~32 min (priemer 30); hrá doma; BKN dovoľuje 14.0 3PM/zápas."
   },
   {
-   "actual": null,
+   "actual": 4.0,
    "close": null,
    "clv": null,
    "eid": "401909966",
@@ -338,11 +338,11 @@
    "pid": "4277905",
    "prob": 0.636,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794450229.8641827,
    "side": "under",
    "start": 1794441600.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "won",
    "strat": "D",
    "team": "",
    "ts": 1794403834.900329,
@@ -351,7 +351,7 @@
    "why": "[auto] Úndery: forma 66 %, projekcia 70 %, Model 2 73 %, zmes 63 %, EV +8 %, kurz 1.70. Dáta: sezóna 7/11 zápasov pod 9.5 AST; posledných 10: 7/10; posledných 5: 4/5; priemer 8.7 (posl. 5: 7.0); očakáva sa ~36 min (priemer 35); hrá vonku; IND dovoľuje 27.8 AST/zápas."
   },
   {
-   "actual": null,
+   "actual": 21.0,
    "close": null,
    "clv": null,
    "eid": "401909966",
@@ -363,11 +363,11 @@
    "pid": "6583",
    "prob": 0.603,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794450229.8641827,
    "side": "over",
    "start": 1794441600.0,
    "stat": "pts",
-   "status": "pending",
+   "status": "lost",
    "strat": "C",
    "team": "",
    "ts": 1794403834.89274,
@@ -376,7 +376,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 60 %, projekcia 69 %, EV +11 %, kurz 1.84. Dáta: sezóna 6/9 zápasov nad 22.5 PTS; posledných 5: 4/5; priemer 25.7 (posl. 5: 28.0); očakáva sa ~34 min (priemer 33); hrá vonku; IND dovoľuje 114.6 PTS/zápas."
   },
   {
-   "actual": null,
+   "actual": 4.0,
    "close": null,
    "clv": null,
    "eid": "401909966",
@@ -388,11 +388,11 @@
    "pid": "4277905",
    "prob": 0.636,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794450229.8641827,
    "side": "under",
    "start": 1794441600.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "won",
    "strat": "A",
    "team": "",
    "ts": 1794403834.878412,
@@ -3052,6 +3052,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794411051.3787344,
+ "updated": 1794450230.777949,
  "v": 1
 }
