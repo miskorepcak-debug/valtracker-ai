@@ -51,7 +51,7 @@
    "why": "[auto] Úndery: forma 73 %, projekcia 62 %, Model 2 76 %, zmes 65 %, EV +20 %, kurz 1.85. Dáta: sezóna 6/9 zápasov pod 25.5 PTS; posledných 5: 3/5; priemer 23.1 (posl. 5: 24.0); očakáva sa ~36 min (priemer 36); hrá vonku; MEM dovoľuje 112.1 PTS/zápas."
   },
   {
-   "actual": null,
+   "actual": 9.0,
    "close": null,
    "clv": null,
    "eid": "401909970",
@@ -63,11 +63,11 @@
    "pid": "5041935",
    "prob": 0.604,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794453490.471392,
    "side": "over",
    "start": 1794445200.0,
    "stat": "reb",
-   "status": "pending",
+   "status": "won",
    "strat": "C",
    "team": "",
    "ts": 1794411048.3535712,
@@ -3052,6 +3052,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794453169.6449113,
+ "updated": 1794453495.2299235,
  "v": 1
 }
