@@ -382,6 +382,31 @@
    "eid": "401909301",
    "game": "Utah vs Houston",
    "kind": "prop",
+   "label": "Svi Mykhailiuk OVER 0.5 trojky",
+   "line": 0.5,
+   "odds": 1.67,
+   "pid": "3133602",
+   "prob": 0.625,
+   "ref": null,
+   "settled_ts": null,
+   "side": "over",
+   "start": 1794619800.0,
+   "stat": "tpm",
+   "status": "pending",
+   "strat": "F",
+   "team": "",
+   "ts": 1794610950.1267047,
+   "uid": "2026-11-13-F-13UTAHOU-svimykhail-tpm0.5o",
+   "units": 0.2,
+   "why": "[auto] Čistý trh: Kalshi dáva 62 %, kurz Niké 1.67, výhoda +4 % (bez formy a modelov). Dáta: sezóna 6/12 zápasov nad 0.5 3PM; posledných 10: 5/10; posledných 5: 2/5; priemer 0.7 (posl. 5: 0.4); očakáva sa ~18 min (priemer 15); hrá vonku; HOU dovoľuje 12.2 3PM/zápas. Kurz Niké overený pred zápisom: 1.67."
+  },
+  {
+   "actual": null,
+   "close": null,
+   "clv": null,
+   "eid": "401909301",
+   "game": "Utah vs Houston",
+   "kind": "prop",
    "label": "Amen Thompson UNDER 16.5 bodov",
    "line": 16.5,
    "odds": 1.84,
@@ -4477,6 +4502,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794610345.5177975,
+ "updated": 1794610954.986306,
  "v": 1
 }
