@@ -601,7 +601,7 @@
    "why": "[auto] Úndery: forma 70 %, projekcia 61 %, Model 2 67 %, zmes 66 %, EV +9 %, kurz 1.65. Dáta: sezóna 8/11 zápasov pod 5.5 REB; posledných 10: 7/10; posledných 5: 4/5; priemer 4.3 (posl. 5: 4.0); očakáva sa ~22 min (priemer 20); hrá doma; MEM dovoľuje 41.6 REB/zápas."
   },
   {
-   "actual": null,
+   "actual": 6.0,
    "close": null,
    "clv": null,
    "eid": "401909300",
@@ -613,11 +613,11 @@
    "pid": "4432810",
    "prob": 0.755,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794623320.0059566,
    "side": "under",
    "start": 1794618000.0,
    "stat": "reb",
-   "status": "pending",
+   "status": "lost",
    "strat": "D",
    "team": "",
    "ts": 1794575186.940337,
@@ -676,7 +676,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 70 %, projekcia 84 %, EV +21 %, kurz 1.72. Dáta: sezóna 9/10 zápasov nad 6.5 REB; posledných 5: 4/5; priemer 8.7 (posl. 5: 8.8); očakáva sa ~31 min (priemer 28); hrá vonku; NOP dovoľuje 43.9 REB/zápas."
   },
   {
-   "actual": null,
+   "actual": 6.0,
    "close": null,
    "clv": null,
    "eid": "401909300",
@@ -688,11 +688,11 @@
    "pid": "4432810",
    "prob": 0.755,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794623320.0059566,
    "side": "under",
    "start": 1794618000.0,
    "stat": "reb",
-   "status": "pending",
+   "status": "lost",
    "strat": "A",
    "team": "",
    "ts": 1794575186.920466,
@@ -1076,7 +1076,7 @@
    "why": "[auto] Konsenzus: Kalshi 55 %, forma 83 %, projekcia z minút 74 % (xMIN 27) – zhoda všetkých troch, EV +22 %. Dáta: sezóna 10/11 zápasov pod 2.5 REB; posledných 10: 9/10; posledných 5: 4/5; priemer 1.6 (posl. 5: 1.8); očakáva sa ~27 min (priemer 26); hrá vonku; IND dovoľuje 46.9 REB/zápas."
   },
   {
-   "actual": null,
+   "actual": 3.0,
    "close": null,
    "clv": null,
    "eid": "401909297",
@@ -1088,11 +1088,11 @@
    "pid": "5082206",
    "prob": 0.732,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794623632.283533,
    "side": "under",
    "start": 1794614400.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "won",
    "strat": "D",
    "team": "",
    "ts": 1794575186.866882,
@@ -1101,7 +1101,7 @@
    "why": "[auto] Úndery: forma 79 %, projekcia 73 %, Model 2 76 %, zmes 73 %, EV +22 %, kurz 1.67. Dáta: sezóna 10/12 zápasov pod 3.5 AST; posledných 10: 8/10; posledných 5: 3/5; priemer 2.2 (posl. 5: 3.4); očakáva sa ~25 min (priemer 24); hrá vonku; ORL dovoľuje 27.6 AST/zápas."
   },
   {
-   "actual": null,
+   "actual": 1.0,
    "close": null,
    "clv": null,
    "eid": "401909297",
@@ -1113,11 +1113,11 @@
    "pid": "5164559",
    "prob": 0.729,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794623632.283533,
    "side": "under",
    "start": 1794614400.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "won",
    "strat": "D",
    "team": "",
    "ts": 1794575186.8658788,
@@ -1151,7 +1151,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 65 %, projekcia 59 %, EV +19 %, kurz 1.82. Dáta: sezóna 7/10 zápasov pod 20.5 PTS; posledných 5: 4/5; priemer 18.0 (posl. 5: 18.8); očakáva sa ~36 min (priemer 35); hrá doma; MIL dovoľuje 120.9 PTS/zápas."
   },
   {
-   "actual": null,
+   "actual": 3.0,
    "close": null,
    "clv": null,
    "eid": "401909297",
@@ -1163,11 +1163,11 @@
    "pid": "5082206",
    "prob": 0.732,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794623632.283533,
    "side": "under",
    "start": 1794614400.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "won",
    "strat": "C",
    "team": "",
    "ts": 1794575186.8546681,
@@ -1176,7 +1176,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 73 %, projekcia 73 %, EV +22 %, kurz 1.67. Dáta: sezóna 10/12 zápasov pod 3.5 AST; posledných 10: 8/10; posledných 5: 3/5; priemer 2.2 (posl. 5: 3.4); očakáva sa ~25 min (priemer 24); hrá vonku; ORL dovoľuje 27.6 AST/zápas."
   },
   {
-   "actual": null,
+   "actual": 1.0,
    "close": null,
    "clv": null,
    "eid": "401909297",
@@ -1188,11 +1188,11 @@
    "pid": "5164559",
    "prob": 0.729,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794623632.283533,
    "side": "under",
    "start": 1794614400.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "won",
    "strat": "A",
    "team": "",
    "ts": 1794575186.8459294,
@@ -4552,6 +4552,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794623312.96685,
+ "updated": 1794623634.7948508,
  "v": 1
 }
