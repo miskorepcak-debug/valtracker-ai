@@ -951,7 +951,7 @@
    "why": "[auto] Konsenzus: Kalshi 55 %, forma 76 %, projekcia z minút 73 % (xMIN 22) – zhoda všetkých troch, EV +23 %. Dáta: sezóna 8/10 zápasov pod 2.5 REB; posledných 5: 4/5; priemer 1.4 (posl. 5: 1.8); očakáva sa ~22 min (priemer 19); hrá doma; ATL dovoľuje 45.0 REB/zápas."
   },
   {
-   "actual": null,
+   "actual": 11.0,
    "close": null,
    "clv": null,
    "eid": "401909296",
@@ -963,11 +963,11 @@
    "pid": "3147657",
    "prob": 0.631,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794620380.0844622,
    "side": "under",
    "start": 1794614400.0,
    "stat": "pts",
-   "status": "pending",
+   "status": "lost",
    "strat": "D",
    "team": "",
    "ts": 1794575186.8827524,
@@ -1001,7 +1001,7 @@
    "why": "[auto] Úndery: forma 83 %, projekcia 74 %, Model 2 77 %, zmes 74 %, EV +22 %, kurz 1.64. Dáta: sezóna 10/11 zápasov pod 2.5 REB; posledných 10: 9/10; posledných 5: 4/5; priemer 1.6 (posl. 5: 1.8); očakáva sa ~27 min (priemer 26); hrá vonku; IND dovoľuje 46.9 REB/zápas."
   },
   {
-   "actual": null,
+   "actual": 11.0,
    "close": null,
    "clv": null,
    "eid": "401909296",
@@ -1013,11 +1013,11 @@
    "pid": "3147657",
    "prob": 0.631,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794620380.0844622,
    "side": "under",
    "start": 1794614400.0,
    "stat": "pts",
-   "status": "pending",
+   "status": "lost",
    "strat": "C",
    "team": "",
    "ts": 1794575186.8775477,
@@ -4552,6 +4552,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794614162.3966691,
+ "updated": 1794620394.484113,
  "v": 1
 }
