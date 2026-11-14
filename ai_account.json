@@ -7,6 +7,31 @@
    "eid": "401909982",
    "game": "Detroit vs Miami",
    "kind": "prop",
+   "label": "John Collins OVER 0.5 trojky",
+   "line": 0.5,
+   "odds": 1.61,
+   "pid": "3908845",
+   "prob": 0.64,
+   "ref": null,
+   "settled_ts": null,
+   "side": "over",
+   "start": 1794704400.0,
+   "stat": "tpm",
+   "status": "pending",
+   "strat": "F",
+   "team": "",
+   "ts": 1794663346.5163255,
+   "uid": "2026-11-14-F-14DETMIA-johncollin-tpm0.5o",
+   "units": 0.2,
+   "why": "[auto] Čistý trh: Kalshi dáva 64 %, kurz Niké 1.61, výhoda +3 % (bez formy a modelov). Dáta: sezóna 5/11 zápasov nad 0.5 3PM; posledných 10: 5/10; posledných 5: 3/5; priemer 1.1 (posl. 5: 1.0); očakáva sa ~27 min (priemer 26); hrá vonku; MIA dovoľuje 15.8 3PM/zápas. Kurz Niké overený pred zápisom: 1.61."
+  },
+  {
+   "actual": null,
+   "close": null,
+   "clv": null,
+   "eid": "401909982",
+   "game": "Detroit vs Miami",
+   "kind": "prop",
    "label": "Kevin Huerter UNDER 3.5 doskokov",
    "line": 3.5,
    "odds": 1.78,
@@ -5152,6 +5177,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794662701.8955536,
+ "updated": 1794663349.508974,
  "v": 1
 }
