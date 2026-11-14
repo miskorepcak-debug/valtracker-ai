@@ -976,7 +976,7 @@
    "why": "[auto] Úndery: forma 65 %, projekcia 74 %, Model 2 83 %, zmes 63 %, EV +14 %, kurz 1.81. Dáta: sezóna 8/11 zápasov pod 8.5 PTS; posledných 10: 7/10; posledných 5: 4/5; priemer 5.9 (posl. 5: 5.6); očakáva sa ~23 min (priemer 24); hrá vonku; IND dovoľuje 113.5 PTS/zápas."
   },
   {
-   "actual": null,
+   "actual": 3.0,
    "close": null,
    "clv": null,
    "eid": "401909296",
@@ -988,11 +988,11 @@
    "pid": "3914044",
    "prob": 0.745,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794623260.3436522,
    "side": "under",
    "start": 1794614400.0,
    "stat": "reb",
-   "status": "pending",
+   "status": "lost",
    "strat": "D",
    "team": "",
    "ts": 1794575186.8818579,
@@ -1051,7 +1051,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 73 %, projekcia 68 %, EV +18 %, kurz 1.61. Dáta: sezóna 9/11 zápasov nad 1.5 AST; posledných 10: 9/10; posledných 5: 5/5; priemer 2.4 (posl. 5: 2.0); očakáva sa ~33 min (priemer 33); hrá vonku; IND dovoľuje 25.9 AST/zápas."
   },
   {
-   "actual": null,
+   "actual": 3.0,
    "close": null,
    "clv": null,
    "eid": "401909296",
@@ -1063,11 +1063,11 @@
    "pid": "3914044",
    "prob": 0.745,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794623260.3436522,
    "side": "under",
    "start": 1794614400.0,
    "stat": "reb",
-   "status": "pending",
+   "status": "lost",
    "strat": "A",
    "team": "",
    "ts": 1794575186.871461,
@@ -4552,6 +4552,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794620724.2033033,
+ "updated": 1794623312.96685,
  "v": 1
 }
