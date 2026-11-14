@@ -801,7 +801,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 67 %, projekcia 77 %, EV +31 %, kurz 1.93. Dáta: sezóna 8/11 zápasov nad 14.5 PTS; posledných 10: 8/10; posledných 5: 4/5; priemer 16.5 (posl. 5: 16.8); očakáva sa ~38 min (priemer 36); hrá doma; CLE dovoľuje 112.6 PTS/zápas."
   },
   {
-   "actual": null,
+   "actual": 2.0,
    "close": null,
    "clv": null,
    "eid": "401909298",
@@ -813,11 +813,11 @@
    "pid": "4066261",
    "prob": 0.752,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794623800.5062597,
    "side": "under",
    "start": 1794618000.0,
    "stat": "tpm",
-   "status": "pending",
+   "status": "lost",
    "strat": "A",
    "team": "",
    "ts": 1794575186.9039993,
@@ -4552,6 +4552,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794623634.7948508,
+ "updated": 1794623963.974103,
  "v": 1
 }
