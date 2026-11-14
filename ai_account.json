@@ -826,7 +826,7 @@
    "why": "[auto] Konsenzus: Kalshi 64 %, forma 80 %, projekcia z minút 91 % (xMIN 36) – zhoda všetkých troch, EV +15 %. Dáta: sezóna 10/11 zápasov pod 1.5 3PM; posledných 10: 9/10; posledných 5: 5/5; priemer 0.5 (posl. 5: 0.6); očakáva sa ~36 min (priemer 33); hrá doma; CLE dovoľuje 15.2 3PM/zápas."
   },
   {
-   "actual": null,
+   "actual": 14.0,
    "close": null,
    "clv": null,
    "eid": "401909299",
@@ -838,11 +838,11 @@
    "pid": "4871145",
    "prob": 0.678,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794625299.6673217,
    "side": "under",
    "start": 1794618000.0,
    "stat": "pts",
-   "status": "pending",
+   "status": "lost",
    "strat": "D",
    "team": "",
    "ts": 1794575186.8998494,
@@ -4552,6 +4552,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794624971.0655975,
+ "updated": 1794625618.7035627,
  "v": 1
 }
