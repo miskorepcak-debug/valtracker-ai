@@ -476,7 +476,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 62 %, projekcia 78 %, EV +9 %, kurz 1.75. Dáta: sezóna 7/9 zápasov nad 2.5 AST; posledných 5: 3/5; priemer 4.4 (posl. 5: 3.2); očakáva sa ~24 min (priemer 23); hrá vonku; CLE dovoľuje 27.8 AST/zápas. Kurz Niké overený pred zápisom: 1.75."
   },
   {
-   "actual": null,
+   "actual": 2.0,
    "close": null,
    "clv": null,
    "eid": "401909981",
@@ -488,11 +488,11 @@
    "pid": "5041951",
    "prob": 0.719,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794704512.7991967,
    "side": "over",
    "start": 1794702600.0,
    "stat": "tpm",
-   "status": "pending",
+   "status": "won",
    "strat": "A",
    "team": "",
    "ts": 1794662698.9992301,
@@ -5177,6 +5177,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794703891.1396513,
+ "updated": 1794704517.138137,
  "v": 1
 }
