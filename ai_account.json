@@ -282,6 +282,31 @@
    "eid": "401909991",
    "game": "Houston vs Washington",
    "kind": "prop",
+   "label": "Tari Eason UNDER 11.5 bodov",
+   "line": 11.5,
+   "odds": 1.88,
+   "pid": "4433192",
+   "prob": 0.555,
+   "ref": null,
+   "settled_ts": null,
+   "side": "under",
+   "start": 1794787200.0,
+   "stat": "pts",
+   "status": "pending",
+   "strat": "F",
+   "team": "",
+   "ts": 1794781195.693262,
+   "uid": "2026-11-15-F-15HOUWAS-tarieason-pts11.5u",
+   "units": 0.2,
+   "why": "[auto] Čistý trh: Polymarket dáva 55 %, kurz Niké 1.88, výhoda +4 % (bez formy a modelov). Dáta: sezóna 7/13 zápasov pod 11.5 PTS; posledných 10: 6/10; posledných 5: 3/5; priemer 9.7 (posl. 5: 8.6); očakáva sa ~28 min (priemer 26); hrá vonku; WAS dovoľuje 115.8 PTS/zápas. Kurz Niké overený pred zápisom: 1.88."
+  },
+  {
+   "actual": null,
+   "close": null,
+   "clv": null,
+   "eid": "401909991",
+   "game": "Houston vs Washington",
+   "kind": "prop",
    "label": "Alperen Sengun OVER 0.5 trojky",
    "line": 0.5,
    "odds": 1.82,
@@ -5827,6 +5852,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794774929.4542294,
+ "updated": 1794781199.0681393,
  "v": 1
 }
