@@ -151,7 +151,7 @@
    "why": "[auto] Konsenzus: Kalshi 58 %, forma 73 %, projekcia z minút 69 % (xMIN 37) – zhoda všetkých troch, EV +11 %. Dáta: sezóna 8/12 zápasov nad 2.5 3PM; posledných 10: 8/10; posledných 5: 5/5; priemer 3.1 (posl. 5: 3.2); očakáva sa ~37 min (priemer 37); hrá doma; OKC dovoľuje 15.8 3PM/zápas. Kurz Niké overený pred zápisom: 1.61."
   },
   {
-   "actual": null,
+   "actual": 4.0,
    "close": null,
    "clv": null,
    "eid": "401909992",
@@ -163,11 +163,11 @@
    "pid": "4432848",
    "prob": 0.62,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794799633.2405899,
    "side": "under",
    "start": 1794790800.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "lost",
    "strat": "D",
    "team": "",
    "ts": 1794774926.713344,
@@ -176,7 +176,7 @@
    "why": "[auto] Úndery: forma 65 %, projekcia 62 %, Model 2 60 %, zmes 62 %, EV +11 %, kurz 1.79. Dáta: sezóna 9/13 zápasov pod 3.5 AST; posledných 10: 8/10; posledných 5: 4/5; priemer 2.8 (posl. 5: 3.0); očakáva sa ~29 min (priemer 27); hrá doma; ATL dovoľuje 27.6 AST/zápas. Kurz Niké overený pred zápisom: 1.79."
   },
   {
-   "actual": null,
+   "actual": 13.0,
    "close": null,
    "clv": null,
    "eid": "401909992",
@@ -188,11 +188,11 @@
    "pid": "5082206",
    "prob": 0.602,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794799633.2405899,
    "side": "under",
    "start": 1794790800.0,
    "stat": "pts",
-   "status": "pending",
+   "status": "lost",
    "strat": "D",
    "team": "",
    "ts": 1794774926.7127528,
@@ -201,7 +201,7 @@
    "why": "[auto] Úndery: forma 64 %, projekcia 65 %, Model 2 72 %, zmes 60 %, EV +11 %, kurz 1.85. Dáta: sezóna 9/13 zápasov pod 11.5 PTS; posledných 10: 7/10; posledných 5: 3/5; priemer 9.2 (posl. 5: 9.6); očakáva sa ~25 min (priemer 24); hrá doma; ATL dovoľuje 117.9 PTS/zápas. Kurz Niké overený pred zápisom: 1.85."
   },
   {
-   "actual": null,
+   "actual": 1.0,
    "close": null,
    "clv": null,
    "eid": "401909992",
@@ -213,11 +213,11 @@
    "pid": "3133628",
    "prob": 0.715,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794799633.2405899,
    "side": "over",
    "start": 1794790800.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "lost",
    "strat": "C",
    "team": "",
    "ts": 1794774926.7095537,
@@ -226,7 +226,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 71 %, projekcia 80 %, EV +12 %, kurz 1.57. Dáta: sezóna 9/12 zápasov nad 1.5 AST; posledných 10: 8/10; posledných 5: 4/5; priemer 2.8 (posl. 5: 3.6); očakáva sa ~30 min (priemer 27); hrá doma; ATL dovoľuje 27.6 AST/zápas. Kurz Niké overený pred zápisom: 1.57."
   },
   {
-   "actual": null,
+   "actual": 3.0,
    "close": null,
    "clv": null,
    "eid": "401909992",
@@ -238,11 +238,11 @@
    "pid": "4431680",
    "prob": 0.627,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794799633.2405899,
    "side": "over",
    "start": 1794790800.0,
    "stat": "tpm",
-   "status": "pending",
+   "status": "won",
    "strat": "C",
    "team": "",
    "ts": 1794774926.708948,
@@ -251,7 +251,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 62 %, projekcia 64 %, EV +14 %, kurz 1.82. Dáta: sezóna 8/13 zápasov nad 1.5 3PM; posledných 10: 7/10; posledných 5: 5/5; priemer 1.5 (posl. 5: 2.0); očakáva sa ~34 min (priemer 31); hrá vonku; MIL dovoľuje 15.8 3PM/zápas. Kurz Niké overený pred zápisom: 1.82."
   },
   {
-   "actual": null,
+   "actual": 2.0,
    "close": null,
    "clv": null,
    "eid": "401909992",
@@ -263,11 +263,11 @@
    "pid": "5082206",
    "prob": 0.832,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794799633.2405899,
    "side": "under",
    "start": 1794790800.0,
    "stat": "tpm",
-   "status": "pending",
+   "status": "lost",
    "strat": "A",
    "team": "",
    "ts": 1794774926.7050893,
@@ -5852,6 +5852,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794796394.210538,
+ "updated": 1794799633.6012704,
  "v": 1
 }
