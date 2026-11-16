@@ -26,7 +26,7 @@
    "why": "[auto] Zápasy (handicap): z trhu víťaza vychádza šanca krytia 53 % proti kurzu 2.04, EV +9 %. Kurz Niké overený pred zápisom: 2.04."
   },
   {
-   "actual": null,
+   "actual": 3.0,
    "close": null,
    "clv": null,
    "eid": "401909993",
@@ -38,11 +38,11 @@
    "pid": "3155942",
    "prob": 0.646,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794803189.5055864,
    "side": "under",
    "start": 1794794400.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "won",
    "strat": "D",
    "team": "",
    "ts": 1794745854.864553,
@@ -51,7 +51,7 @@
    "why": "[auto] Úndery: forma 68 %, projekcia 56 %, Model 2 64 %, zmes 64 %, EV +7 %, kurz 1.66. Dáta: sezóna 6/11 zápasov pod 5.5 AST; posledných 10: 6/10; posledných 5: 5/5; priemer 5.8 (posl. 5: 4.0); očakáva sa ~32 min (priemer 34); hrá doma; OKC dovoľuje 24.0 AST/zápas. Kurz Niké overený pred zápisom: 1.66."
   },
   {
-   "actual": null,
+   "actual": 2.0,
    "close": null,
    "clv": null,
    "eid": "401909993",
@@ -63,11 +63,11 @@
    "pid": "4278073",
    "prob": 0.681,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794803189.5055864,
    "side": "under",
    "start": 1794794400.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "won",
    "strat": "D",
    "team": "",
    "ts": 1794745854.8632107,
@@ -76,7 +76,7 @@
    "why": "[auto] Úndery: forma 74 %, projekcia 59 %, Model 2 64 %, zmes 68 %, EV +16 %, kurz 1.70. Dáta: sezóna 10/13 zápasov pod 5.5 AST; posledných 10: 7/10; posledných 5: 4/5; priemer 4.5 (posl. 5: 4.6); očakáva sa ~34 min (priemer 33); hrá vonku; SAC dovoľuje 25.0 AST/zápas. Kurz Niké overený pred zápisom: 1.70."
   },
   {
-   "actual": null,
+   "actual": 3.0,
    "close": null,
    "clv": null,
    "eid": "401909993",
@@ -88,11 +88,11 @@
    "pid": "3155942",
    "prob": 0.646,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794803189.5055864,
    "side": "under",
    "start": 1794794400.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "won",
    "strat": "C",
    "team": "",
    "ts": 1794745854.8581,
@@ -101,7 +101,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 64 %, projekcia 56 %, EV +7 %, kurz 1.66. Dáta: sezóna 6/11 zápasov pod 5.5 AST; posledných 10: 6/10; posledných 5: 5/5; priemer 5.8 (posl. 5: 4.0); očakáva sa ~32 min (priemer 34); hrá doma; OKC dovoľuje 24.0 AST/zápas. Kurz Niké overený pred zápisom: 1.66."
   },
   {
-   "actual": null,
+   "actual": 2.0,
    "close": null,
    "clv": null,
    "eid": "401909993",
@@ -113,11 +113,11 @@
    "pid": "4278073",
    "prob": 0.681,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794803189.5055864,
    "side": "under",
    "start": 1794794400.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "won",
    "strat": "C",
    "team": "",
    "ts": 1794745854.8565545,
@@ -126,7 +126,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 68 %, projekcia 59 %, EV +16 %, kurz 1.70. Dáta: sezóna 10/13 zápasov pod 5.5 AST; posledných 10: 7/10; posledných 5: 4/5; priemer 4.5 (posl. 5: 4.6); očakáva sa ~34 min (priemer 33); hrá vonku; SAC dovoľuje 25.0 AST/zápas. Kurz Niké overený pred zápisom: 1.70."
   },
   {
-   "actual": null,
+   "actual": 3.0,
    "close": null,
    "clv": null,
    "eid": "401909993",
@@ -138,11 +138,11 @@
    "pid": "5142620",
    "prob": 0.69,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794803189.5055864,
    "side": "over",
    "start": 1794794400.0,
    "stat": "tpm",
-   "status": "pending",
+   "status": "won",
    "strat": "A",
    "team": "",
    "ts": 1794745854.8506153,
@@ -5852,6 +5852,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794799633.6012704,
+ "updated": 1794803195.5550458,
  "v": 1
 }
