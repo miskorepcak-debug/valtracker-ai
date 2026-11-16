@@ -551,7 +551,7 @@
    "why": "[auto] Zápasy (handicap): z trhu víťaza vychádza šanca krytia 52 % proti kurzu 2.06, EV +8 %. Kurz Niké overený pred zápisom: 2.06."
   },
   {
-   "actual": null,
+   "actual": 8.0,
    "close": null,
    "clv": null,
    "eid": "401909988",
@@ -563,11 +563,11 @@
    "pid": "4433627",
    "prob": 0.62,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794788588.2204351,
    "side": "over",
    "start": 1794780000.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "won",
    "strat": "C",
    "team": "",
    "ts": 1794745854.8102276,
@@ -5852,6 +5852,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794787283.8665483,
+ "updated": 1794788588.8273911,
  "v": 1
 }
