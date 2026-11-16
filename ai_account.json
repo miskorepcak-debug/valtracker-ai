@@ -451,7 +451,7 @@
    "why": "[auto] Konsenzus: Kalshi 57 %, forma 77 %, projekcia z minút 72 % (xMIN 14) – zhoda všetkých troch, EV +16 %. Dáta: sezóna 9/12 zápasov pod 4.5 PTS; posledných 10: 8/10; posledných 5: 4/5; priemer 3.9 (posl. 5: 1.6); očakáva sa ~14 min (priemer 13); hrá vonku; TOR dovoľuje 118.0 PTS/zápas. Kurz Niké overený pred zápisom: 1.62."
   },
   {
-   "actual": null,
+   "actual": 6.0,
    "close": null,
    "clv": null,
    "eid": "401909989",
@@ -463,11 +463,11 @@
    "pid": "4065648",
    "prob": 0.682,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794791521.5987678,
    "side": "under",
    "start": 1794783600.0,
    "stat": "reb",
-   "status": "pending",
+   "status": "won",
    "strat": "D",
    "team": "",
    "ts": 1794745854.8330302,
@@ -488,11 +488,11 @@
    "pid": "6442",
    "prob": 0.645,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794791521.5987678,
    "side": "over",
    "start": 1794783600.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "void",
    "strat": "C",
    "team": "",
    "ts": 1794745854.8274744,
@@ -501,7 +501,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 64 %, projekcia 75 %, EV +6 %, kurz 1.65. Dáta: sezóna 8/11 zápasov nad 3.5 AST; posledných 10: 8/10; posledných 5: 4/5; priemer 4.4 (posl. 5: 3.8); očakáva sa ~36 min (priemer 32); hrá vonku, druhý zápas za 2 dni; BOS dovoľuje 25.1 AST/zápas. Kurz Niké overený pred zápisom: 1.65."
   },
   {
-   "actual": null,
+   "actual": 6.0,
    "close": null,
    "clv": null,
    "eid": "401909989",
@@ -513,11 +513,11 @@
    "pid": "4065648",
    "prob": 0.682,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794791521.5987678,
    "side": "under",
    "start": 1794783600.0,
    "stat": "reb",
-   "status": "pending",
+   "status": "won",
    "strat": "A",
    "team": "",
    "ts": 1794745854.8221831,
@@ -526,7 +526,7 @@
    "why": "[auto] Konsenzus: Kalshi 56 %, forma 73 %, projekcia z minút 71 % (xMIN 33) – zhoda všetkých troch, EV +15 %. Dáta: sezóna 9/11 zápasov pod 7.5 REB; posledných 10: 8/10; posledných 5: 4/5; priemer 6.1 (posl. 5: 6.2); očakáva sa ~33 min (priemer 33); hrá doma; DAL dovoľuje 44.0 REB/zápas. Kurz Niké overený pred zápisom: 1.69."
   },
   {
-   "actual": null,
+   "actual": -37.0,
    "close": null,
    "clv": null,
    "eid": "401909989",
@@ -538,11 +538,11 @@
    "pid": "",
    "prob": 0.525,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794791521.5987678,
    "side": "",
    "start": 1794783600.0,
    "stat": "hc",
-   "status": "pending",
+   "status": "lost",
    "strat": "E",
    "team": "DAL",
    "ts": 1794745854.8169599,
@@ -5852,6 +5852,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794788588.8273911,
+ "updated": 1794791528.1917684,
  "v": 1
 }
