@@ -576,7 +576,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 61 %, projekcia 69 %, EV +10 %, kurz 1.78. Dáta: sezóna 8/12 zápasov nad 5.5 AST; posledných 10: 7/10; posledných 5: 5/5; priemer 6.5 (posl. 5: 8.0); očakáva sa ~36 min (priemer 33); hrá doma; SAS dovoľuje 24.4 AST/zápas. Kurz Niké overený pred zápisom: 1.78."
   },
   {
-   "actual": null,
+   "actual": 4.0,
    "close": null,
    "clv": null,
    "eid": "401909987",
@@ -588,11 +588,11 @@
    "pid": "4066648",
    "prob": 0.618,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794787279.5246873,
    "side": "under",
    "start": 1794778200.0,
    "stat": "pts",
-   "status": "pending",
+   "status": "won",
    "strat": "D",
    "team": "",
    "ts": 1794774926.6869588,
@@ -601,7 +601,7 @@
    "why": "[auto] Úndery: forma 66 %, projekcia 55 %, Model 2 64 %, zmes 61 %, EV +9 %, kurz 1.76. Dáta: sezóna 6/9 zápasov pod 14.5 PTS; posledných 5: 3/5; priemer 13.6 (posl. 5: 15.8); očakáva sa ~30 min (priemer 30); hrá doma; CHA dovoľuje 108.9 PTS/zápas. Kurz Niké overený pred zápisom: 1.76."
   },
   {
-   "actual": null,
+   "actual": 4.0,
    "close": null,
    "clv": null,
    "eid": "401909987",
@@ -613,11 +613,11 @@
    "pid": "4066648",
    "prob": 0.618,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794787279.5246873,
    "side": "under",
    "start": 1794778200.0,
    "stat": "pts",
-   "status": "pending",
+   "status": "won",
    "strat": "C",
    "team": "",
    "ts": 1794774926.6837344,
@@ -626,7 +626,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 61 %, projekcia 55 %, EV +9 %, kurz 1.76. Dáta: sezóna 6/9 zápasov pod 14.5 PTS; posledných 5: 3/5; priemer 13.6 (posl. 5: 15.8); očakáva sa ~30 min (priemer 30); hrá doma; CHA dovoľuje 108.9 PTS/zápas. Kurz Niké overený pred zápisom: 1.76."
   },
   {
-   "actual": null,
+   "actual": 0.0,
    "close": null,
    "clv": null,
    "eid": "401909987",
@@ -638,11 +638,11 @@
    "pid": "2991139",
    "prob": 0.644,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794787279.5246873,
    "side": "over",
    "start": 1794778200.0,
    "stat": "tpm",
-   "status": "pending",
+   "status": "lost",
    "strat": "C",
    "team": "",
    "ts": 1794774926.6830492,
@@ -651,7 +651,7 @@
    "why": "[auto] Objem: zmes Kalshi+forma 64 %, projekcia 62 %, EV +10 %, kurz 1.71. Dáta: sezóna 8/11 zápasov nad 0.5 3PM; posledných 10: 7/10; posledných 5: 4/5; priemer 0.9 (posl. 5: 1.0); očakáva sa ~26 min (priemer 28); hrá doma; CHA dovoľuje 15.0 3PM/zápas. Kurz Niké overený pred zápisom: 1.71."
   },
   {
-   "actual": null,
+   "actual": 4.0,
    "close": null,
    "clv": null,
    "eid": "401909987",
@@ -663,11 +663,11 @@
    "pid": "3936099",
    "prob": 0.685,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1794787279.5246873,
    "side": "over",
    "start": 1794778200.0,
    "stat": "reb",
-   "status": "pending",
+   "status": "won",
    "strat": "A",
    "team": "",
    "ts": 1794774926.6785197,
@@ -5852,6 +5852,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1794781199.0681393,
+ "updated": 1794787283.8665483,
  "v": 1
 }
