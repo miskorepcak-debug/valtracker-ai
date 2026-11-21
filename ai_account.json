@@ -132,6 +132,31 @@
    "eid": "401910024",
    "game": "Portland vs New York",
    "kind": "prop",
+   "label": "Robert Williams III UNDER 1.5 asistencie",
+   "line": 1.5,
+   "odds": 1.46,
+   "pid": "4066211",
+   "prob": 0.71,
+   "ref": null,
+   "settled_ts": null,
+   "side": "under",
+   "start": 1795307400.0,
+   "stat": "ast",
+   "status": "pending",
+   "strat": "F",
+   "team": "",
+   "ts": 1795304633.1926572,
+   "uid": "2026-11-21-F-21PORNYK-robertwill-ast1.5u",
+   "units": 0.2,
+   "why": "[auto] Čistý trh: Kalshi dáva 71 %, kurz Niké 1.46, výhoda +4 % (bez formy a modelov). Dáta: sezóna 8/12 zápasov pod 1.5 AST; posledných 10: 6/10; posledných 5: 3/5; priemer 1.2 (posl. 5: 1.4); očakáva sa ~16 min (priemer 16); hrá vonku; NYK dovoľuje 23.6 AST/zápas. Kurz Niké overený pred zápisom: 1.46."
+  },
+  {
+   "actual": null,
+   "close": null,
+   "clv": null,
+   "eid": "401910024",
+   "game": "Portland vs New York",
+   "kind": "prop",
    "label": "Jrue Holiday OVER 1.5 trojky",
    "line": 1.5,
    "odds": 1.63,
@@ -151,7 +176,7 @@
    "why": "[auto] Konsenzus: Kalshi 58 %, forma 80 %, projekcia z minút 79 % (xMIN 29) – zhoda všetkých troch, EV +22 %. Dáta: sezóna 12/15 zápasov nad 1.5 3PM; posledných 10: 8/10; posledných 5: 4/5; priemer 2.5 (posl. 5: 2.8); očakáva sa ~29 min (priemer 28); hrá vonku; NYK dovoľuje 13.2 3PM/zápas. Kurz Niké overený pred zápisom: 1.63."
   },
   {
-   "actual": null,
+   "actual": 4.0,
    "close": null,
    "clv": null,
    "eid": "401910023",
@@ -163,11 +188,11 @@
    "pid": "5082206",
    "prob": 0.746,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1795304627.284885,
    "side": "under",
    "start": 1795284000.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "lost",
    "strat": "A",
    "team": "",
    "ts": 1795268848.6230247,
@@ -7977,6 +8002,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1795291620.4060857,
+ "updated": 1795304638.9710293,
  "v": 1
 }
