@@ -29,6 +29,31 @@
    "actual": null,
    "close": null,
    "clv": null,
+   "eid": "401910026",
+   "game": "Memphis vs Minnesota",
+   "kind": "prop",
+   "label": "Ty Jerome UNDER 24.5 bodov",
+   "line": 24.5,
+   "odds": 1.85,
+   "pid": "4065733",
+   "prob": 0.6,
+   "ref": null,
+   "settled_ts": null,
+   "side": "under",
+   "start": 1795309200.0,
+   "stat": "pts",
+   "status": "pending",
+   "strat": "F",
+   "team": "",
+   "ts": 1795291614.4133742,
+   "uid": "2026-11-21-F-21MEMMIN-tyjerome-pts24.5u",
+   "units": 0.2,
+   "why": "[auto] Čistý trh: Kalshi dáva 60 %, kurz Niké 1.85, výhoda +11 % (bez formy a modelov). Dáta: sezóna 6/11 zápasov pod 24.5 PTS; posledných 10: 6/10; posledných 5: 4/5; priemer 25.4 (posl. 5: 22.0); očakáva sa ~38 min (priemer 31); hrá vonku; MIN dovoľuje 104.0 PTS/zápas. Kurz Niké overený pred zápisom: 1.85."
+  },
+  {
+   "actual": null,
+   "close": null,
+   "clv": null,
    "eid": "401910027",
    "game": "New Orleans vs San Antonio",
    "kind": "prop",
@@ -7952,6 +7977,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1795268858.0905519,
+ "updated": 1795291620.4060857,
  "v": 1
 }
