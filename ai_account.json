@@ -127,8 +127,8 @@
   },
   {
    "actual": null,
-   "close": null,
-   "clv": null,
+   "close": 0.6359,
+   "clv": -0.07157107231920212,
    "eid": "401910024",
    "game": "Portland vs New York",
    "kind": "prop",
@@ -152,8 +152,8 @@
   },
   {
    "actual": null,
-   "close": null,
-   "clv": null,
+   "close": 0.5864,
+   "clv": -0.0441884816753928,
    "eid": "401910024",
    "game": "Portland vs New York",
    "kind": "prop",
@@ -8002,6 +8002,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1795304638.9710293,
+ "updated": 1795307593.4210958,
  "v": 1
 }
