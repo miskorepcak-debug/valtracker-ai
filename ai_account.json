@@ -27,8 +27,8 @@
   },
   {
    "actual": null,
-   "close": null,
-   "clv": null,
+   "close": 0.5,
+   "clv": -0.07499999999999996,
    "eid": "401910026",
    "game": "Memphis vs Minnesota",
    "kind": "prop",
@@ -52,8 +52,8 @@
   },
   {
    "actual": null,
-   "close": null,
-   "clv": null,
+   "close": 0.5547,
+   "clv": -0.07370666666666659,
    "eid": "401910027",
    "game": "New Orleans vs San Antonio",
    "kind": "prop",
@@ -77,8 +77,8 @@
   },
   {
    "actual": null,
-   "close": null,
-   "clv": null,
+   "close": 0.5638,
+   "clv": -0.07531914893617031,
    "eid": "401910026",
    "game": "Memphis vs Minnesota",
    "kind": "prop",
@@ -102,8 +102,8 @@
   },
   {
    "actual": null,
-   "close": null,
-   "clv": null,
+   "close": 0.5323,
+   "clv": -0.11645161290322603,
    "eid": "401910025",
    "game": "Los Angeles C vs Dallas",
    "kind": "prop",
@@ -8002,6 +8002,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1795307593.4210958,
+ "updated": 1795309363.86264,
  "v": 1
 }
