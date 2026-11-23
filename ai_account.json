@@ -2,8 +2,8 @@
  "bets": [
   {
    "actual": null,
-   "close": null,
-   "clv": null,
+   "close": 0.5612,
+   "clv": -0.07406914893617023,
    "eid": "401910035",
    "game": "Boston vs Golden State",
    "kind": "prop",
@@ -26,9 +26,9 @@
    "why": "[auto] Konsenzus: Kalshi 56 %, forma 77 %, projekcia z minút 75 % (xMIN 33) – zhoda všetkých troch, EV +19 %. Dáta: sezóna 10/14 zápasov pod 4.5 AST; posledných 10: 9/10; posledných 5: 5/5; priemer 3.6 (posl. 5: 2.6); očakáva sa ~33 min (priemer 32); hrá doma; BOS dovoľuje 23.0 AST/zápas. Kurz Niké overený pred zápisom: 1.65."
   },
   {
-   "actual": null,
-   "close": null,
-   "clv": null,
+   "actual": 2.0,
+   "close": 0.6093,
+   "clv": -0.07393316195372746,
    "eid": "401910034",
    "game": "Indiana vs New York",
    "kind": "prop",
@@ -38,11 +38,11 @@
    "pid": "3914044",
    "prob": 0.76,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1795405250.5575616,
    "side": "under",
    "start": 1795395600.0,
    "stat": "reb",
-   "status": "pending",
+   "status": "won",
    "strat": "A",
    "team": "",
    "ts": 1795362406.5213127,
@@ -51,7 +51,7 @@
    "why": "[auto] Konsenzus: Kalshi 60 %, forma 80 %, projekcia z minút 73 % (xMIN 30) – zhoda všetkých troch, EV +16 %. Dáta: sezóna 14/16 zápasov pod 2.5 REB; posledných 10: 8/10; posledných 5: 4/5; priemer 1.6 (posl. 5: 1.6); očakáva sa ~30 min (priemer 28); hrá doma, druhý zápas za 2 dni; IND dovoľuje 45.0 REB/zápas. Kurz Niké overený pred zápisom: 1.52."
   },
   {
-   "actual": null,
+   "actual": 0.0,
    "close": null,
    "clv": null,
    "eid": "401910032",
@@ -63,11 +63,11 @@
    "pid": "3978",
    "prob": 0.768,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1795405250.5575616,
    "side": "under",
    "start": 1795392000.0,
    "stat": "tpm",
-   "status": "pending",
+   "status": "won",
    "strat": "A",
    "team": "",
    "ts": 1795362406.5150592,
@@ -76,7 +76,7 @@
    "why": "[auto] Konsenzus: Kalshi 62 %, forma 82 %, projekcia z minút 76 % (xMIN 21) – zhoda všetkých troch, EV +18 %. Dáta: sezóna 11/13 zápasov pod 0.5 3PM; posledných 10: 9/10; posledných 5: 4/5; priemer 0.2 (posl. 5: 0.2); očakáva sa ~21 min (priemer 21); hrá vonku; CHI dovoľuje 11.9 3PM/zápas. Kurz Niké overený pred zápisom: 1.54."
   },
   {
-   "actual": 5.0,
+   "actual": 6.0,
    "close": null,
    "clv": null,
    "eid": "401910030",
@@ -8127,6 +8127,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1795393680.7262528,
+ "updated": 1795405279.4305496,
  "v": 1
 }
