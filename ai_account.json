@@ -76,7 +76,7 @@
    "why": "[auto] Konsenzus: Kalshi 62 %, forma 82 %, projekcia z minút 76 % (xMIN 21) – zhoda všetkých troch, EV +18 %. Dáta: sezóna 11/13 zápasov pod 0.5 3PM; posledných 10: 9/10; posledných 5: 4/5; priemer 0.2 (posl. 5: 0.2); očakáva sa ~21 min (priemer 21); hrá vonku; CHI dovoľuje 11.9 3PM/zápas. Kurz Niké overený pred zápisom: 1.54."
   },
   {
-   "actual": null,
+   "actual": 5.0,
    "close": null,
    "clv": null,
    "eid": "401910030",
@@ -88,11 +88,11 @@
    "pid": "6475",
    "prob": 0.803,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1795393634.3076117,
    "side": "under",
    "start": 1795388400.0,
    "stat": "reb",
-   "status": "pending",
+   "status": "lost",
    "strat": "A",
    "team": "",
    "ts": 1795362406.5088744,
@@ -101,7 +101,7 @@
    "why": "[auto] Konsenzus: Kalshi 58 %, forma 88 %, projekcia z minút 82 % (xMIN 26) – zhoda všetkých troch, EV +27 %. Dáta: sezóna 12/14 zápasov pod 2.5 REB; posledných 10: 9/10; posledných 5: 5/5; priemer 1.4 (posl. 5: 1.0); očakáva sa ~26 min (priemer 26); hrá doma; OKC dovoľuje 42.9 REB/zápas. Kurz Niké overený pred zápisom: 1.58."
   },
   {
-   "actual": null,
+   "actual": 1.0,
    "close": null,
    "clv": null,
    "eid": "401910029",
@@ -113,11 +113,11 @@
    "pid": "4397183",
    "prob": 0.754,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1795393642.582296,
    "side": "over",
    "start": 1795379400.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "lost",
    "strat": "A",
    "team": "",
    "ts": 1795362406.5025759,
@@ -8127,6 +8127,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1795362410.7466497,
+ "updated": 1795393680.7262528,
  "v": 1
 }
