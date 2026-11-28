@@ -29,6 +29,31 @@
    "actual": null,
    "close": null,
    "clv": null,
+   "eid": "401910048",
+   "game": "Indiana vs Chicago",
+   "kind": "prop",
+   "label": "Patrick Williams UNDER 1.5 trojky",
+   "line": 1.5,
+   "odds": 1.93,
+   "pid": "4431687",
+   "prob": 0.63,
+   "ref": null,
+   "settled_ts": null,
+   "side": "under",
+   "start": 1795914000.0,
+   "stat": "tpm",
+   "status": "pending",
+   "strat": "F",
+   "team": "",
+   "ts": 1795888512.6354406,
+   "uid": "2026-11-28-F-28INDCHI-patrickwil-tpm1.5u",
+   "units": 0.2,
+   "why": "[auto] Čistý trh: Kalshi dáva 63 %, kurz Niké 1.93, výhoda +22 % (bez formy a modelov). Dáta: sezóna 8/11 zápasov pod 1.5 3PM; posledných 10: 7/10; posledných 5: 4/5; priemer 1.0 (posl. 5: 0.8); očakáva sa ~20 min (priemer 20); hrá doma; IND dovoľuje 15.8 3PM/zápas. Kurz Niké overený pred zápisom: 1.93."
+  },
+  {
+   "actual": null,
+   "close": null,
+   "clv": null,
    "eid": "401910047",
    "game": "Brooklyn vs Charlotte",
    "kind": "prop",
@@ -8227,6 +8252,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1795884208.908492,
+ "updated": 1795888516.5235727,
  "v": 1
 }
