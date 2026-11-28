@@ -32,6 +32,31 @@
    "eid": "401910048",
    "game": "Indiana vs Chicago",
    "kind": "prop",
+   "label": "Zach Collins UNDER 1.5 trojky",
+   "line": 1.5,
+   "odds": 2.0,
+   "pid": "4066650",
+   "prob": 0.52,
+   "ref": null,
+   "settled_ts": null,
+   "side": "under",
+   "start": 1795914000.0,
+   "stat": "tpm",
+   "status": "pending",
+   "strat": "F",
+   "team": "",
+   "ts": 1795889179.5339282,
+   "uid": "2026-11-28-F-28INDCHI-zachcollin-tpm1.5u",
+   "units": 0.2,
+   "why": "[auto] Čistý trh: Kalshi dáva 52 %, kurz Niké 2.00, výhoda +4 % (bez formy a modelov). Dáta: sezóna 11/12 zápasov pod 1.5 3PM; posledných 10: 9/10; posledných 5: 4/5; priemer 0.3 (posl. 5: 0.8); očakáva sa ~19 min (priemer 16); hrá doma; IND dovoľuje 15.8 3PM/zápas. Kurz Niké overený pred zápisom: 2.00."
+  },
+  {
+   "actual": null,
+   "close": null,
+   "clv": null,
+   "eid": "401910048",
+   "game": "Indiana vs Chicago",
+   "kind": "prop",
    "label": "Patrick Williams UNDER 1.5 trojky",
    "line": 1.5,
    "odds": 1.93,
@@ -8252,6 +8277,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1795888516.5235727,
+ "updated": 1795889495.3432758,
  "v": 1
 }
