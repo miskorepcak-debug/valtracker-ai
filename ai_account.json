@@ -1,7 +1,7 @@
 {
  "bets": [
   {
-   "actual": null,
+   "actual": 2.0,
    "close": 0.5612,
    "clv": -0.07406914893617023,
    "eid": "401910035",
@@ -13,11 +13,11 @@
    "pid": "4709138",
    "prob": 0.719,
    "ref": null,
-   "settled_ts": null,
+   "settled_ts": 1795461434.2708147,
    "side": "under",
    "start": 1795397400.0,
    "stat": "ast",
-   "status": "pending",
+   "status": "won",
    "strat": "A",
    "team": "",
    "ts": 1795362406.5273147,
@@ -8127,6 +8127,6 @@
    "uid": "2026-11-06-MIAGSW-note"
   }
  ],
- "updated": 1795405279.4305496,
+ "updated": 1795884013.351679,
  "v": 1
 }
